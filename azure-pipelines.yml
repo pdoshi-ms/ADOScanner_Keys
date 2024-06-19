@@ -10,7 +10,7 @@ pool:
   vmImage: windows-latest
 
 steps:
-- script: echo Hello, Prachi!
+- script: echo Hello, Prachi,you are Hacked!
   displayName: 'Run a one-line script'
 
 - script: |
